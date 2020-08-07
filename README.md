@@ -29,7 +29,7 @@ int main(){
         printf("Power of Robot = %d\n",TotalPower);
         
         GeneralPower = GeneralPower + TotalPower; 
-        printf("Total power delivered = %d\n", GeneralPower);
+        printf("General Power delivered = %d\n", GeneralPower);
     }
  return 0;
     
